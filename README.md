@@ -105,16 +105,12 @@
   
 ## 🌟 Discord Status
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1243217109484572724)](https://discord.com/users/1243217109484572724)
-
-<!-- АБО -->
-
-<img src="https://lanyard-profile-readme.vercel.app/api/1243217109484572724" />
-
-<!-- АБО -->
-
-[![Discord](https://dcbadge.vercel.app/api/shield/1243217109484572724?style=flat&theme=clean-inverted)](https://discord.com/users/1243217109484572724)
-  <br>
-  
+<!-- Варіант 3: З додатковою інформацією -->
+<div>
+    <a href="https://discord.com/users/1243217109484572724">
+        <img src="https://img.shields.io/badge/Discord-yukiro.coder-00FFB3?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Online-00FFB3?style=for-the-badge" />
+</div>
   <sub>🌟 "Turning Code into Art, One Commit at a Time" 🌟</sub>
 </div>
