@@ -96,7 +96,7 @@
   ## 🎵 Vibing To
   
   <a href="https://open.spotify.com/user/31ozwwww7hfqhzwwwwwwwww">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ozwwww7hfqhzwwwwwwwww&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=00FFB3" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j3ryfh4shi6ciq3fc2ldbmklr4&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=00FFB3" />
   </a>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
