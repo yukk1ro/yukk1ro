@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/wKBUDtk.gif" width="100%" />
+  <img src="https://i.imgur.com/QZpyL8k.gif" width="100%" />
 
   # ⚡ yukk1ro | Creative Developer & Digital Artist
   
@@ -36,6 +36,15 @@
     currentProject: "New Era Bot - Revolutionizing Discord Experience"
   };
   ```
+
+  ## 📊 Code Statistics
+  
+  <a href="https://github.com/yukk1ro">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukk1ro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00FFB3&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/yukk1ro">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukk1ro&theme=tokyonight&hide_border=true" />
+  </a>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
@@ -82,7 +91,7 @@
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
-  ## 📊 Creative Journey
+  ## 📈 Creative Journey
   
   <a href="https://github.com/yukk1ro">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yukk1ro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff" />
@@ -95,7 +104,7 @@
   
   ## 🎵 Vibing To
   
-  <a href="https://open.spotify.com/user/31ozwwww7hfqhzwwwwwwwww">
+  <a href="https://open.spotify.com/user/31j3ryfh4shi6ciq3fc2ldbmklr4">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j3ryfh4shi6ciq3fc2ldbmklr4&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=00FFB3" />
   </a>
   
