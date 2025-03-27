@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
   # ⚡ yukk1ro | Creative Developer & Digital Artist
   
@@ -125,3 +125,4 @@
   
   <sub>🌟 "Turning Code into Art, One Commit at a Time" 🌟</sub>
 </div>
+**
