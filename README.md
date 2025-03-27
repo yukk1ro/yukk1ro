@@ -1,80 +1,91 @@
 <div align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
-  <br>
+  <img src="https://i.imgur.com/YCw47Dm.gif" width="100%" />
 
-# 👋 Hello, I'm yukk1ro
+  # ⭐ yukk1ro | Creative Developer
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF2559&center=true&vCenter=true&width=435&lines=Discord+Bot+Developer;Creative+Programmer;UI%2FUX+Designer;Always+learning+new+things" alt="Typing SVG" />
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2559&center=true&vCenter=true&width=435&lines=Creative+Developer;Discord+Bot+Developer;UI%2FUX+Designer;Always+learning+new+things" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yukk1ro&color=FF2559" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yukk1ro?style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=yukk1ro&style=for-the-badge&color=FF2559" alt="Profile views" />
 </div>
-
----
-
-### 🌸 About Me
-
-```javascript
-const yukk1ro = {
-    code: ["JavaScript", "Python", "HTML", "CSS"],
-    technologies: {
-        backEnd: ["Node.js", "Express", "MongoDB"],
-        frontEnd: ["React", "Vue.js"],
-        discord: ["discord.js", "Canvas"],
-        design: ["Figma", "Photoshop"]
-    },
-    currentFocus: "Building awesome Discord bots",
-    funFact: "I turn coffee into code ☕"
-};
-```
-
-### 🎯 Current Projects
-
-- 🤖 **New Era Bot** - Advanced Discord bot with economy system
-- 🎮 **Minefield Game** - Exciting gambling mini-game
-- 🎨 **Custom Role System** - Unique role management system
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yukk1ro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2559&icon_color=FF2559&text_color=ffffff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yukk1ro&theme=radical&hide_border=true&background=0D1117&ring=FF2559&fire=FF2559&currStreakLabel=FF2559" />
-</div>
-
-### 🔥 Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,git,react,vue,html,css,figma,ps" />
-</p>
-
-### 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=FF2559" />
-</div>
-
-### 📫 Connect with Me
-
-<div align="center">
-  <a href="https://discord.gg/YOUR_DISCORD">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
-
----
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yukk1ro/yukk1ro/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+  
+  ## 🌸 About Me
+  
+  ```javascript
+  const developer = {
+    name: "yukk1ro",
+    age: 18,
+    location: "Ukraine",
+    languages: ["JavaScript", "Python", "HTML/CSS"],
+    specialization: "Discord Bot Development",
+    hobbies: ["Coding", "Gaming", "Design"],
+    contact: "discord: yukk1ro",
+    currentProject: "New Era Bot"
+  };
+  ```
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  ## 🎮 Featured Project
+  
+  <img src="app/assets/quests/achievements-1.png" width="400px" />
+  
+  ### 🤖 New Era Bot
+  
+  ```javascript
+  const features = {
+    economy: ["Balance System", "Transactions", "Shop"],
+    games: ["Minefield", "Coinflip", "Duels"],
+    social: ["Custom Roles", "Voice Rooms", "Pairs"],
+    other: ["Achievements", "Statistics", "Rewards"]
+  };
+  ```
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  ## 💻 Tech Stack
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,git,html,css,figma,ps,vscode" />
+  </p>
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  ## 📊 GitHub Analytics
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yukk1ro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2559&icon_color=FF2559&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yukk1ro&theme=radical&hide_border=true&background=0D1117&ring=FF2559&fire=FF2559&currStreakLabel=FF2559" />
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  ## 🎵 Currently Playing
+  
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ozwwww7hfqhzwwwwwwwww&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=FF2559" />
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  ## 🌟 Discord Presence
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID)](https://discord.com/users/YOUR_DISCORD_ID)
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  ## 🐍 Contribution Graph
+  
+  <img src="https://raw.githubusercontent.com/yukk1ro/yukk1ro/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  <img src="https://discord.c99.nl/widget/theme-4/YOUR_DISCORD_ID.png" width="350px" />
 
+  <br>
+  
+  <sub>💭 "Creating digital experiences that matter"</sub>
 </div>
