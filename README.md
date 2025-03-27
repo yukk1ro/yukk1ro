@@ -26,7 +26,7 @@
     languages: ["JavaScript", "Python", "HTML/CSS"],
     specialization: "Discord Bot Development",
     hobbies: ["Coding", "Gaming", "Design"],
-    contact: "discord: yukk1ro",
+    contact: "discord: yukiro.coder",
     currentProject: "New Era Bot"
   };
   ```
