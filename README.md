@@ -105,15 +105,7 @@
   
 ## 🌟 Discord Status
 
-<!-- Варіант 1: Простий але гарний беджик -->
-<a href="https://discord.com/users/1243217109484572724">
-    <img src="https://img.shields.io/badge/Discord-yukiro.coder-00FFB3?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
 
-<!-- Варіант 2: Більш інформативний беджик -->
-<a href="https://discord.com/users/1243217109484572724">
-    <img src="https://img.shields.io/badge/Discord-%E2%9C%A8%20yukiro.coder-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" />
-</a>
 
 <!-- Варіант 3: З додатковою інформацією -->
 <div>
