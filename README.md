@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/LkGxbGo.gif" width="100%" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
   # ⚡ yukk1ro | Creative Developer & Digital Artist
   
@@ -21,20 +23,15 @@
 
 <div align="center">
   
-  ## 📊 Programming Languages & Stats
+  ## 📊 Programming Languages
   
-  <a href="https://github.com/yukk1ro">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukk1ro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00FFB3&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/yukk1ro">
-    <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yukk1ro&theme=transparent&bg_color=0D1117&title_color=00FFB3&text_color=ffffff" />
-  </a>
-
   <div>
     <img src="https://img.shields.io/badge/JavaScript-85%25-00FFB3?style=for-the-badge&logo=javascript" />
     <img src="https://img.shields.io/badge/Python-10%25-00FFB3?style=for-the-badge&logo=python" />
     <img src="https://img.shields.io/badge/HTML/CSS-5%25-00FFB3?style=for-the-badge&logo=html5" />
   </div>
+
+  <br>
   
   ## 🌌 About Me
   
@@ -52,11 +49,9 @@
   };
   ```
   
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
   ## 🎮 Featured Project: New Era Bot
-  
-  <img src="https://i.imgur.com/your-project-banner.gif" width="500px" />
   
   <table>
     <tr>
@@ -86,7 +81,7 @@
   };
   ```
   
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
   ## 💻 Tech Arsenal
   
@@ -95,7 +90,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,figma,ps,vscode" />
   </div>
   
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
   ## 📈 Creative Journey
   
@@ -106,29 +101,23 @@
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yukk1ro&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" />
   </a>
   
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
   ## 🎵 Vibing To
   
-  <a href="https://open.spotify.com/user/31j3ryfh4shi6ciq3fc2ldbmklr4">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j3ryfh4shi6ciq3fc2ldbmklr4&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=00FFB3" />
-  </a>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j3ryfh4shi6ciq3fc2ldbmklr4&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=00ffb3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31j3ryfh4shi6ciq3fc2ldbmklr4&redirect=true)
   
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-  ## 🌟 Discord Status
+  ## 🌟 Discord Presence
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1243217109484572724)](https://discord.com/users/1243217109484572724)
+  <img src="https://discord.c99.nl/widget/theme-4/1243217109484572724.png" width="350px" />
   
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  
-  ## 🐉 Contribution Dragon
-  
-  <img src="https://raw.githubusercontent.com/yukk1ro/yukk1ro/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
   <br>
   
   <sub>🌟 "Turning Code into Art, One Commit at a Time" 🌟</sub>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
