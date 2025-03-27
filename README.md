@@ -1,91 +1,119 @@
 <div align="center">
-  <img src="https://i.imgur.com/YCw47Dm.gif" width="100%" />
+  <img src="https://i.imgur.com/wKBUDtk.gif" width="100%" />
 
-  # ⭐ yukk1ro | Creative Developer
+  # ⚡ yukk1ro | Creative Developer & Digital Artist
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF2559&center=true&vCenter=true&width=435&lines=Discord+Bot+Developer;Creative+Programmer;UI%2FUX+Designer;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Discord+Bot+Developer;Creative+Programmer;UI%2FUX+Designer;Digital+Artist;Always+learning+new+things" alt="Typing SVG" />
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=yukk1ro&style=for-the-badge&color=FF2559" alt="Profile views" />
+  <a href="https://github.com/yukk1ro">
+    <img src="https://komarev.com/ghpvc/?username=yukk1ro&style=for-the-badge&color=00FFB3" alt="Profile views" />
+  </a>
+  <a href="https://discord.com/users/1243217109484572724">
+    <img src="https://img.shields.io/badge/Discord-yukiro.coder-00FFB3?style=for-the-badge&logo=discord" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling&fontAlignY=35&text=Welcome%20to%20my%20Digital%20World&fontSize=30&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
   
-  ## 🌸 About Me
+  ## 🌌 About Me
   
   ```javascript
   const developer = {
     name: "yukk1ro",
+    title: "Full Stack Developer",
     age: 18,
-    location: "Ukraine",
+    location: "Ukraine 🇺🇦",
     languages: ["JavaScript", "Python", "HTML/CSS"],
-    specialization: "Discord Bot Development",
-    hobbies: ["Coding", "Gaming", "Design"],
+    specialization: "Discord Bot Development & UI Design",
+    passions: ["Creative Coding", "Digital Art", "Game Dev"],
     contact: "discord: yukiro.coder",
-    currentProject: "New Era Bot"
+    currentProject: "New Era Bot - Revolutionizing Discord Experience"
   };
   ```
   
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
-  ## 🎮 Featured Project
+  ## 🎮 Featured Project: New Era Bot
   
-  <img src="app/assets/quests/achievements-1.png" width="400px" />
+  <img src="https://i.imgur.com/your-project-banner.gif" width="500px" />
   
-  ### 🤖 New Era Bot
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Economy-System-00FFB3?style=flat-square&logo=bitcoin" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Interactive-Games-00FFB3?style=flat-square&logo=unity" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Social-Features-00FFB3?style=flat-square&logo=discord" />
+      </td>
+    </tr>
+  </table>
   
   ```javascript
-  const features = {
-    economy: ["Balance System", "Transactions", "Shop"],
-    games: ["Minefield", "Coinflip", "Duels"],
-    social: ["Custom Roles", "Voice Rooms", "Pairs"],
-    other: ["Achievements", "Statistics", "Rewards"]
+  const newEraBot = {
+    features: {
+      economy: ["💰 Advanced Economy", "🏪 Dynamic Shop", "📊 Market Analytics"],
+      games: ["💣 Minefield", "🎲 Coinflip", "⚔️ PvP Duels"],
+      social: ["👑 Custom Roles", "🎵 Music Rooms", "❤️ Matching System"],
+      special: ["🏆 Achievement System", "📈 User Analytics", "🎁 Daily Rewards"]
+    },
+    status: "Actively Developing",
+    users: "Growing Community",
+    goal: "Creating Unforgettable Discord Experiences"
   };
   ```
   
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
-  ## 💻 Tech Stack
+  ## 💻 Tech Arsenal
   
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,git,html,css,figma,ps,vscode" />
-  </p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,figma,ps,vscode" />
+  </div>
   
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
-  ## 📊 GitHub Analytics
+  ## 📊 Creative Journey
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yukk1ro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2559&icon_color=FF2559&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yukk1ro&theme=radical&hide_border=true&background=0D1117&ring=FF2559&fire=FF2559&currStreakLabel=FF2559" />
+  <a href="https://github.com/yukk1ro">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yukk1ro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/yukk1ro">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yukk1ro&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" />
+  </a>
   
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
-  ## 🎵 Currently Playing
+  ## 🎵 Vibing To
   
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ozwwww7hfqhzwwwwwwwww&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=FF2559" />
+  <a href="https://open.spotify.com/user/31ozwwww7hfqhzwwwwwwwww">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ozwwww7hfqhzwwwwwwwww&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=00FFB3" />
+  </a>
   
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
-  ## 🌟 Discord Presence
+  ## 🌟 Discord Status
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/1243217109484572724)](https://discord.com/users/1243217109484572724)
   
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
-  ## 🐍 Contribution Graph
+  ## 🐉 Contribution Dragon
   
   <img src="https://raw.githubusercontent.com/yukk1ro/yukk1ro/output/github-contribution-grid-snake-dark.svg" width="100%" />
   
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-  <img src="https://discord.c99.nl/widget/theme-4/1243217109484572724.png" width="350px" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
 
   <br>
   
-  <sub>💭 "Creating digital experiences that matter"</sub>
+  <sub>🌟 "Turning Code into Art, One Commit at a Time" 🌟</sub>
 </div>
