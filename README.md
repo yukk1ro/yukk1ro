@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/QZpyL8k.gif" width="100%" />
+  <img src="https://i.imgur.com/LkGxbGo.gif" width="100%" />
 
   # ⚡ yukk1ro | Creative Developer & Digital Artist
   
@@ -21,6 +21,21 @@
 
 <div align="center">
   
+  ## 📊 Programming Languages & Stats
+  
+  <a href="https://github.com/yukk1ro">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukk1ro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00FFB3&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/yukk1ro">
+    <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yukk1ro&theme=transparent&bg_color=0D1117&title_color=00FFB3&text_color=ffffff" />
+  </a>
+
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-85%25-00FFB3?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/Python-10%25-00FFB3?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/HTML/CSS-5%25-00FFB3?style=for-the-badge&logo=html5" />
+  </div>
+  
   ## 🌌 About Me
   
   ```javascript
@@ -36,15 +51,6 @@
     currentProject: "New Era Bot - Revolutionizing Discord Experience"
   };
   ```
-
-  ## 📊 Code Statistics
-  
-  <a href="https://github.com/yukk1ro">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukk1ro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00FFB3&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/yukk1ro">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukk1ro&theme=tokyonight&hide_border=true" />
-  </a>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
