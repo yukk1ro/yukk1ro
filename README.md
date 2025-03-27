@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
 
   # ⚡ yukk1ro | Creative Developer & Digital Artist
   
@@ -36,20 +36,17 @@
   };
   ```
 
-  ## 📊 Code Statistics
+  ## 📊 Programming Languages
   
-  <a href="https://github.com/yukk1ro">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukk1ro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00FFB3&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/yukk1ro">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukk1ro&theme=tokyonight&hide_border=true" />
-  </a>
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-85%25-00FFB3?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/Python-10%25-00FFB3?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/HTML/CSS-5%25-00FFB3?style=for-the-badge&logo=html5" />
+  </div>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
   ## 🎮 Featured Project: New Era Bot
-  
-  <img src="https://i.imgur.com/your-project-banner.gif" width="500px" />
   
   <table>
     <tr>
@@ -103,26 +100,17 @@
   
   ## 🎵 Vibing To
   
-  <a href="https://open.spotify.com/user/31j3ryfh4shi6ciq3fc2ldbmklr4">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j3ryfh4shi6ciq3fc2ldbmklr4&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=00FFB3" />
-  </a>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j3ryfh4shi6ciq3fc2ldbmklr4&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=00ffb3&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
   ## 🌟 Discord Status
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1243217109484572724)](https://discord.com/users/1243217109484572724)
-  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  
-  ## 🐉 Contribution Dragon
-  
-  <img src="https://raw.githubusercontent.com/yukk1ro/yukk1ro/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  
+  <img src="https://discord.c99.nl/widget/theme-4/1243217109484572724.png" width="350px" />
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
 
   <br>
   
   <sub>🌟 "Turning Code into Art, One Commit at a Time" 🌟</sub>
 </div>
-**
