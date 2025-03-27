@@ -103,11 +103,9 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3ryfh4shi6ciq3fc2ldbmklr4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
-  ## 🌟 Discord Status
-  
-  <img src="https://discord.c99.nl/widget/theme-4/1243217109484572724.png" width="350px" />
+## 🌟 Discord Status
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
+[![Discord](https://dcbadge.vercel.app/api/shield/1243217109484572724?style=flat&theme=clean-inverted)](https://discord.com/users/1243217109484572724)
 
   <br>
   
