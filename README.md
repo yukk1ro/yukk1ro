@@ -73,7 +73,7 @@
   
   ## 🌟 Discord Presence
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID)](https://discord.com/users/1243217109484572724)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1243217109484572724)](https://discord.com/users/1243217109484572724)
   
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
