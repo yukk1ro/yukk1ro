@@ -100,8 +100,7 @@
   
  ## 🎵 Vibing To
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3ryfh4shi6ciq3fc2ldbmklr4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=00ffb3)](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3ryfh4shi6ciq3fc2ldbmklr4)
-  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3ryfh4shi6ciq3fc2ldbmklr4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
   ## 🌟 Discord Status
