@@ -105,8 +105,15 @@
   
 ## 🌟 Discord Status
 
-[![Discord](https://dcbadge.vercel.app/api/shield/1243217109484572724?style=flat&theme=clean-inverted)](https://discord.com/users/1243217109484572724)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1243217109484572724)](https://discord.com/users/1243217109484572724)
 
+<!-- АБО -->
+
+<img src="https://lanyard-profile-readme.vercel.app/api/1243217109484572724" />
+
+<!-- АБО -->
+
+[![Discord](https://dcbadge.vercel.app/api/shield/1243217109484572724?style=flat&theme=clean-inverted)](https://discord.com/users/1243217109484572724)
   <br>
   
   <sub>🌟 "Turning Code into Art, One Commit at a Time" 🌟</sub>
